@@ -13,3 +13,4 @@ C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRe
 C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\refint\ApexRestaurant.Services.dll
 C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.pdb
 C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ref\ApexRestaurant.Services.dll
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.sourcelink.json

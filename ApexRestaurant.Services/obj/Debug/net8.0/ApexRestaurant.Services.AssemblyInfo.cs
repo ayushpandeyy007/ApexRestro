@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApexRestaurant.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00d1d235698df8891ee7cc57c53b121f1bcbe1d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c12b60f0424646ab94ea991958e5c2508bc02d31")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApexRestaurant.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApexRestaurant.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
