@@ -1,0 +1,15 @@
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\bin\Debug\net8.0\ApexRestaurant.Services.deps.json
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\bin\Debug\net8.0\ApexRestaurant.Services.dll
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\bin\Debug\net8.0\ApexRestaurant.Services.pdb
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\bin\Debug\net8.0\ApexRestaurant.Repository.dll
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\bin\Debug\net8.0\ApexRestaurant.Repository.pdb
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.csproj.AssemblyReference.cache
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.AssemblyInfo.cs
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.csproj.CopyComplete
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.dll
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\refint\ApexRestaurant.Services.dll
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.pdb
+C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Services\obj\Debug\net8.0\ref\ApexRestaurant.Services.dll
