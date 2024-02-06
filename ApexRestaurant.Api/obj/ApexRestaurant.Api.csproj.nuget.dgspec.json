@@ -1,38 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj": {}
+    "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj": {
+    "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
         "projectName": "ApexRestaurant.Api",
-        "projectPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
+        "projectPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Api\\ApexRestaurant.Api.csproj",
         "packagesPath": "C:\\Users\\Baku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Api\\obj\\",
+        "outputPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj": {
-                "projectPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj"
+              "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj": {
+                "projectPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj"
               },
-              "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj": {
-                "projectPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj"
+              "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj": {
+                "projectPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj"
               }
             }
           }
@@ -50,6 +49,70 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -79,24 +142,23 @@
         }
       }
     },
-    "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj": {
+    "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj",
         "projectName": "ApexRestaurant.Repository",
-        "projectPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj",
+        "projectPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj",
         "packagesPath": "C:\\Users\\Baku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -134,32 +196,31 @@
         }
       }
     },
-    "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj": {
+    "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj",
         "projectName": "ApexRestaurant.Services",
-        "projectPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj",
+        "projectPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj",
         "packagesPath": "C:\\Users\\Baku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Services\\obj\\",
+        "outputPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj": {
-                "projectPath": "C:\\Users\\Baku\\Desktop\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj"
+              "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj": {
+                "projectPath": "C:\\Users\\Baku\\Desktop\\New folder\\ApexRestro\\ApexRestaurant.Repository\\ApexRestaurant.Repository.csproj"
               }
             }
           }

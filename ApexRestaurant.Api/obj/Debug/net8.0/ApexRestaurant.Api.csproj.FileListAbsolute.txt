@@ -35,3 +35,6 @@ C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Api\obj\Debug\net8.0\refint\Apex
 C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Api\obj\Debug\net8.0\ApexRestaurant.Api.pdb
 C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Api\obj\Debug\net8.0\ApexRestaurant.Api.genruntimeconfig.cache
 C:\Users\Baku\Desktop\ApexRestro\ApexRestaurant.Api\obj\Debug\net8.0\ref\ApexRestaurant.Api.dll
+C:\Users\Baku\Desktop\New folder\ApexRestro\ApexRestaurant.Api\obj\Debug\net8.0\ApexRestaurant.Api.dll
+C:\Users\Baku\Desktop\New folder\ApexRestro\ApexRestaurant.Api\obj\Debug\net8.0\refint\ApexRestaurant.Api.dll
+C:\Users\Baku\Desktop\New folder\ApexRestro\ApexRestaurant.Api\obj\Debug\net8.0\ApexRestaurant.Api.pdb
